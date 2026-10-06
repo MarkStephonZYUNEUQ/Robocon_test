@@ -1,2 +1,2 @@
 # Robocon_test
-Robocon contron
+Robocon control
